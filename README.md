@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Bugsy 👋
 
-<!--
-**x-bugsy/x-bugsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Curious developer | Exploring code, bugs, and creative solutions  
+🚀 Always learning | Open-source projects and coding experiments  
+🐞 Catching bugs by day, writing code by night  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technologies & Tools
+- **Languages:** JavaScript, TypeScript, Python, HTML, CSS  
+- **Frameworks/Libraries:** React, Next.js, Node.js, FastAPI  
+- **Databases:** MySQL, SQLite  
+- **Others:** Git, GitHub, Docker, REST APIs, Linux  
+
+---
+
+## 🌐 Connect with me
+- 📫 Email: bugsy@gmail.com  
+
+---
+
+## 📊 GitHub Stats
+
+![Bugsy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bugsy&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bugsy&layout=compact&theme=radical)
+
+---
+
+## 🎯 Goals
+- Improve full-stack development skills  
+- Contribute to open-source projects  
+- Learn more about software engineering & security  
+
+---
+
+*"Always learning, always coding, always evolving."*
