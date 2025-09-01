@@ -1,7 +1,5 @@
 # Hi, I'm Bugsy 👋
 
-![Profile Banner](https://github.com/x-bugsy/x-bugsy/assets/your-banner-image.gif)
-
 💻 Curious Developer | Exploring code, bugs & creative solutions  
 🚀 Always learning | Open-source projects & coding experiments  
 🐞 Catching bugs by day, coding by night  
