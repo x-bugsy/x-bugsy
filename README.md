@@ -7,10 +7,10 @@
 ---
 
 ## 🛠 Technologies & Tools
-- **Languages:** JavaScript, TypeScript, Python, HTML, CSS  
-- **Frameworks/Libraries:** React, Next.js, Node.js, FastAPI  
-- **Databases:** MySQL, SQLite  
-- **Others:** Git, GitHub, Docker, REST APIs, Linux  
+- **Languages:** Python, JavaScript, TypeScript  
+- **Frameworks/Libraries:**  FastAPI, React, Next.js, Node.js
+- **Databases:** MySQL, PostgreSQL,  SQLite  
+- **Others:** Git, GitHub, Docker, REST APIs, Linux, AWS  
 
 ---
 
@@ -21,8 +21,8 @@
 
 ## 📊 GitHub Stats
 
-![Bugsy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bugsy&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bugsy&layout=compact&theme=radical)
+![Bugsy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=x-bugsy&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=x-bugsy&layout=compact&theme=radical)
 
 ---
 
