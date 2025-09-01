@@ -1,21 +1,25 @@
 # Hi, I'm Bugsy 👋
 
-💻 Curious developer | Exploring code, bugs, and creative solutions  
-🚀 Always learning | Open-source projects and coding experiments  
-🐞 Catching bugs by day, writing code by night  
+![Profile Banner](https://github.com/x-bugsy/x-bugsy/assets/your-banner-image.gif)
+
+💻 Curious Developer | Exploring code, bugs & creative solutions  
+🚀 Always learning | Open-source projects & coding experiments  
+🐞 Catching bugs by day, coding by night  
 
 ---
 
 ## 🛠 Technologies & Tools
-- **Languages:** Python, JavaScript, TypeScript  
-- **Frameworks/Libraries:**  FastAPI, React, Next.js, Node.js
-- **Databases:** MySQL, PostgreSQL,  SQLite  
-- **Others:** Git, GitHub, Docker, REST APIs, Linux, AWS  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ---
 
-## 🌐 Connect with me
-- 📫 Email: bugsy@gmail.com  
+## 🌐 Connect with Me
+📫 Email: bugsy@gmail.com
 
 ---
 
@@ -27,10 +31,10 @@
 ---
 
 ## 🎯 Goals
-- Improve full-stack development skills  
-- Contribute to open-source projects  
-- Learn more about software engineering & security  
+- 🚀 Improve full-stack development skills  
+- 🌱 Contribute to open-source projects  
+- 🛡 Learn more about software engineering & security  
 
 ---
 
-*"Always learning, always coding, always evolving."*
+*"Always learning, always coding, always evolving."*  
